@@ -20,10 +20,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 60px; /* largest font size since this is main heading tag */
 }
 h2 {
-    font-size: 35px;
+    font-size: 35px; /* each successive heading tags gets smaller font size to signify semantic importance */
 }
 h3 {
     font-size: 28px;
@@ -56,7 +56,6 @@ header img {
 footer a {
     color: #ffffff;
 }
-
 
 
 /* Work Experience
